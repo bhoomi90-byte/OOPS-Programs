@@ -8,13 +8,11 @@ A structured collection of C++ laboratory programs and assignments developed for
 
 | Field | Details |
 | :--- | :--- |
-| **Name** | `[Your Name Here]` |
-| **USN / Roll No** | `[Your USN / Roll No]` |
-| **Division / Section** | `[Your Section/Division]` |
-| **Semester** | `[Your Semester]` |
+| **Name** | Bhoomi B Hallur |
+| **USN** | 01FE23BEC235 |
+| **Division** | E |
+| **Semester** | 7th |
 | **Course** | Object-Oriented Programming (OOPS) |
-
-> *Tip: Update the table above with your details before submitting.*
 
 ---
 
