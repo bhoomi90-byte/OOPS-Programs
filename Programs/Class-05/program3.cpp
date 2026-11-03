@@ -1,4 +1,4 @@
-/*// Write a C++ program to find the sum of two private data members numA and numB of two classes ABC and XYZ using a common friend function.
+// Write a C++ program to find the sum of two private data members numA and numB of two classes ABC and XYZ using a common friend function.
 // Assume that the protoype for both the classes will be int add(ABC,XYZ); ...
 
 #include<iostream>

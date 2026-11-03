@@ -1,4 +1,4 @@
-//(12/08/2026)
+// Basic C++ program demonstrating variables and data types
 #include<iostream>
 using namespace std;
 

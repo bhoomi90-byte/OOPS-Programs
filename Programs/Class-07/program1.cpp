@@ -1,4 +1,3 @@
-//17/09/2026
 // Write a C++ program to implement multi-level inheritance using vehicle, car and sports car as classes use appropriate member functions and datamembers
 
 #include<iostream>

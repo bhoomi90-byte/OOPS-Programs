@@ -1,4 +1,4 @@
-//02/09/2026
+// Class definition with private data members and member functions
 #include<iostream>
 using namespace std;
 class Test

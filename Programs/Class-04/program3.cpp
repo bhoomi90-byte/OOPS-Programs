@@ -1,5 +1,5 @@
 //constructor
-/employee
+// Employee class
 //constructor is used to assign common values among the objects
 #include<iostream>
 using namespace std;

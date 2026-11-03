@@ -1,4 +1,4 @@
-/ Write a c++ program to implement static member Functions... Display only the count(static variable).
+// Write a C++ program to implement static member Functions... Display only the count(static variable).
 
 #include<iostream>
 using namespace std;

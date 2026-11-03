@@ -1,4 +1,4 @@
-//adding 2 objects(3/09/2026)
+// Adding two objects (passing objects as arguments)
  #include<iostream>
  using namespace std;
  class Time

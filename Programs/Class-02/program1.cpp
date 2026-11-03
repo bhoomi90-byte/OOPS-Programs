@@ -1,4 +1,4 @@
-//greater number in an array(13/08/2026)
+// Greater number in an array
 #include<iostream>
 using namespace std;
 int main()

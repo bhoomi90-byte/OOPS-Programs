@@ -1,4 +1,4 @@
-//string li=ength
+// String length
 #include<iostream>
 #include<string>
 using namespace std;
