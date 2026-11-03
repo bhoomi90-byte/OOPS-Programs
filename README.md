@@ -30,7 +30,7 @@ OOPS-Programs/
     ├── Class-05/   # Static members and friend functions
     ├── Class-06/   # Single-level and multi-level inheritance
     ├── Class-07/   # Multi-level inheritance and access specifiers
-    ├── Class-8/    # Constructor initialization lists in derived classes
+    ├── Class-08/    # Constructor initialization lists in derived classes
     ├── Class-09/   # Multiple inheritance implementation
     ├── Class-10/   # Virtual base classes and runtime polymorphism
     ├── Class-11/   # Virtual functions, abstract classes, and operator overloading
@@ -81,7 +81,7 @@ OOPS-Programs/
 * **`program1.cpp`**: Multi-level inheritance modeling vehicles (`Vehicle` -> `Car` -> `SportsCar`).
 * **`program2.cpp`**: Base class access control utilizing `protected` member visibility in derived classes.
 
-### 🔹 Class-8: Constructor Initialization in Inheritance
+### 🔹 Class-08: Constructor Initialization in Inheritance
 * **`program1.cpp`**: Constructor initialization in single-level inheritance (`Animal` base class).
 * **`program2.cpp`**: Multi-level inheritance hierarchy (`Person` -> `Student` -> `IT_Student`).
 * **`program3.cpp`**: Constructor chaining demonstration highlighting requirements for base constructors.
